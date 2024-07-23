@@ -6,4 +6,4 @@ Este projeto demonstra um pipeline de ETL simples que extrai dados de um arquivo
 O arquivo contém o a função para a extração, transformação e carregamneto dos dados (extract, transform e load);
 
 ## view.py
-Script para rápido visualização do que foi carregado no SQLite
+Script para rápida visualização dos dados carregados no SQLite
